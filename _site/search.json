@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-07T01:36:58+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Wonsik Lee's Lab",
+      "description": "Welcome to Wonsik Lee's Lab page. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-07T01:38:35+00:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
